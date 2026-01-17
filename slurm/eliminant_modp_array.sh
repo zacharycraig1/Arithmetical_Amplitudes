@@ -12,7 +12,7 @@ module load sage || true
 SEED_VALUE=$1
 P=$2
 
-cd publication_ready/code/sage
+cd code/sage
 
 sage -python eliminant_modp_dump.sage \
   --seed_value ${SEED_VALUE} \

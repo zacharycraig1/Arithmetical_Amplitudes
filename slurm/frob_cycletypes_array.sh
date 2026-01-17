@@ -14,7 +14,7 @@ CHUNK_MIN=$2
 CHUNK_MAX=$3
 OUTFILE=$4
 
-cd publication_ready/code/sage
+cd code/sage
 
 sage -python frob_cycletypes_eliminant.sage \
   --seed_value ${SEED_VALUE} \

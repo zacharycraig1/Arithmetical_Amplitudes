@@ -117,7 +117,7 @@ If you find σ with order dividing 24 (e.g., 12, 8, 6) and τστ = σ⁻¹:
 If monodromy consistently fails, use Chebotarev density theorem:
 
 ```bash
-cd publication_ready/code/sage
+cd code/sage
 sage g7_chebotarev_verification.sage
 ```
 

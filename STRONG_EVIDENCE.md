@@ -1,6 +1,6 @@
 ## What is “strong evidence” in this bundle?
 
-This `publication_ready/` snapshot is built to be **referee-reproducible** for the parts
+This repository snapshot is built to be **referee-reproducible** for the parts
 that are actually deterministic and stable, and to clearly separate them from claims that
 are currently *conjectural*.
 
