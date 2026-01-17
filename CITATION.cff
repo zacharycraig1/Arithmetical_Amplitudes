@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it using this metadata."
 title: "Arithmetic Structure of 4D Scattering Amplitudes"
-version: "v1.0.1"
-date-released: "2026-01-16"
+version: "v1.0.2"
+date-released: "2026-01-17"
 license: "MIT"
 authors:
   - family-names: Craig
