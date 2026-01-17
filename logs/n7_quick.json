@@ -1,0 +1,237 @@
+{
+  "timestamp": "2026-01-17 01:05:41.243987",
+  "method": "groebner",
+  "gauge": [
+    0,
+    1,
+    -1
+  ],
+  "quick_mode": true,
+  "crosscheck": false,
+  "num_seeds": 10,
+  "inert_primes": [
+    7,
+    11,
+    19
+  ],
+  "split_primes": [
+    5,
+    13
+  ],
+  "inert_tests": [
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 5,
+      "seed_value": 542,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 5,
+      "seed_value": 542,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 6,
+      "seed_value": 642,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 6,
+      "seed_value": 642,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 6,
+      "seed_value": 642,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 7,
+      "seed_value": 742,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 7,
+      "seed_value": 742,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 7,
+      "seed_value": 742,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 8,
+      "seed_value": 842,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 8,
+      "seed_value": 842,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 9,
+      "seed_value": 942,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 9,
+      "seed_value": 942,
+      "p": 19,
+      "N_p": 0
+    }
+  ],
+  "split_tests": [
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 13,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 13,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 5,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 13,
+      "N_p": 2
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 13,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 5,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 13,
+      "N_p": 0
+    }
+  ],
+  "summary": {
+    "passed_inert": 25,
+    "total_inert": 25,
+    "failed_inert": 0,
+    "skipped": 8,
+    "skipped_ramification": 0,
+    "skipped_bad_denom": 2,
+    "skipped_decoupled": 6,
+    "skipped_ramification_inert": 0,
+    "skipped_bad_denom_inert": 2,
+    "skipped_decoupled_inert": 3,
+    "total_inert_pre_ramification": 25,
+    "split_nonzero": 1,
+    "total_split": 7,
+    "skipped_split": 3
+  },
+  "D1_meta": {
+    "description": "Dataset D1: 30 rational 4D kinematic points for n=7 CHY verification",
+    "generation_method": "Pythagorean null vector parametrization with momentum conservation"
+  }
+}

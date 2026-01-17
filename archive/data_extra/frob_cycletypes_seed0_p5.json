@@ -1,0 +1,14 @@
+{
+  "seed_id": 0,
+  "seed_value": 42,
+  "gauge": [
+    0,
+    1,
+    -1
+  ],
+  "p_range": [
+    5,
+    5
+  ],
+  "records": []
+}

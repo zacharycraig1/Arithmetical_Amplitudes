@@ -1,0 +1,1251 @@
+{
+  "timestamp": "2026-01-17 01:06:04.622850",
+  "method": "groebner",
+  "gauge": [
+    0,
+    1,
+    -1
+  ],
+  "quick_mode": false,
+  "crosscheck": false,
+  "num_seeds": 30,
+  "inert_primes": [
+    7,
+    11,
+    19,
+    23,
+    31,
+    43,
+    47
+  ],
+  "split_primes": [
+    5,
+    13,
+    17,
+    29
+  ],
+  "inert_tests": [
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 5,
+      "seed_value": 542,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 5,
+      "seed_value": 542,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 5,
+      "seed_value": 542,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 5,
+      "seed_value": 542,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 5,
+      "seed_value": 542,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 5,
+      "seed_value": 542,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 6,
+      "seed_value": 642,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 6,
+      "seed_value": 642,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 6,
+      "seed_value": 642,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 6,
+      "seed_value": 642,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 6,
+      "seed_value": 642,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 6,
+      "seed_value": 642,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 6,
+      "seed_value": 642,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 7,
+      "seed_value": 742,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 7,
+      "seed_value": 742,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 7,
+      "seed_value": 742,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 7,
+      "seed_value": 742,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 7,
+      "seed_value": 742,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 7,
+      "seed_value": 742,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 7,
+      "seed_value": 742,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 8,
+      "seed_value": 842,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 8,
+      "seed_value": 842,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 8,
+      "seed_value": 842,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 8,
+      "seed_value": 842,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 8,
+      "seed_value": 842,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 8,
+      "seed_value": 842,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 9,
+      "seed_value": 942,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 9,
+      "seed_value": 942,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 9,
+      "seed_value": 942,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 9,
+      "seed_value": 942,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 9,
+      "seed_value": 942,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 9,
+      "seed_value": 942,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 10,
+      "seed_value": 1042,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 10,
+      "seed_value": 1042,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 10,
+      "seed_value": 1042,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 10,
+      "seed_value": 1042,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 10,
+      "seed_value": 1042,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 10,
+      "seed_value": 1042,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 11,
+      "seed_value": 1142,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 11,
+      "seed_value": 1142,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 11,
+      "seed_value": 1142,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 11,
+      "seed_value": 1142,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 11,
+      "seed_value": 1142,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 12,
+      "seed_value": 1242,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 12,
+      "seed_value": 1242,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 12,
+      "seed_value": 1242,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 12,
+      "seed_value": 1242,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 12,
+      "seed_value": 1242,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 12,
+      "seed_value": 1242,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 13,
+      "seed_value": 1342,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 13,
+      "seed_value": 1342,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 13,
+      "seed_value": 1342,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 13,
+      "seed_value": 1342,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 13,
+      "seed_value": 1342,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 14,
+      "seed_value": 1442,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 14,
+      "seed_value": 1442,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 14,
+      "seed_value": 1442,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 14,
+      "seed_value": 1442,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 14,
+      "seed_value": 1442,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 14,
+      "seed_value": 1442,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 15,
+      "seed_value": 1542,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 15,
+      "seed_value": 1542,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 15,
+      "seed_value": 1542,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 15,
+      "seed_value": 1542,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 15,
+      "seed_value": 1542,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 15,
+      "seed_value": 1542,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 16,
+      "seed_value": 1642,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 16,
+      "seed_value": 1642,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 16,
+      "seed_value": 1642,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 16,
+      "seed_value": 1642,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 16,
+      "seed_value": 1642,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 16,
+      "seed_value": 1642,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 16,
+      "seed_value": 1642,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 17,
+      "seed_value": 1742,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 17,
+      "seed_value": 1742,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 17,
+      "seed_value": 1742,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 17,
+      "seed_value": 1742,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 17,
+      "seed_value": 1742,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 17,
+      "seed_value": 1742,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 17,
+      "seed_value": 1742,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 18,
+      "seed_value": 1842,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 18,
+      "seed_value": 1842,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 18,
+      "seed_value": 1842,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 18,
+      "seed_value": 1842,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 18,
+      "seed_value": 1842,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 18,
+      "seed_value": 1842,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 19,
+      "seed_value": 1942,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 19,
+      "seed_value": 1942,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 19,
+      "seed_value": 1942,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 19,
+      "seed_value": 1942,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 19,
+      "seed_value": 1942,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 19,
+      "seed_value": 1942,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 20,
+      "seed_value": 2042,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 20,
+      "seed_value": 2042,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 20,
+      "seed_value": 2042,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 20,
+      "seed_value": 2042,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 20,
+      "seed_value": 2042,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 20,
+      "seed_value": 2042,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 21,
+      "seed_value": 2142,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 21,
+      "seed_value": 2142,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 21,
+      "seed_value": 2142,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 21,
+      "seed_value": 2142,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 21,
+      "seed_value": 2142,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 22,
+      "seed_value": 2242,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 22,
+      "seed_value": 2242,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 22,
+      "seed_value": 2242,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 22,
+      "seed_value": 2242,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 22,
+      "seed_value": 2242,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 22,
+      "seed_value": 2242,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 23,
+      "seed_value": 2342,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 23,
+      "seed_value": 2342,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 23,
+      "seed_value": 2342,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 23,
+      "seed_value": 2342,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 23,
+      "seed_value": 2342,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 24,
+      "seed_value": 2442,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 24,
+      "seed_value": 2442,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 24,
+      "seed_value": 2442,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 24,
+      "seed_value": 2442,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 24,
+      "seed_value": 2442,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 24,
+      "seed_value": 2442,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 24,
+      "seed_value": 2442,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 25,
+      "seed_value": 2542,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 25,
+      "seed_value": 2542,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 25,
+      "seed_value": 2542,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 25,
+      "seed_value": 2542,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 25,
+      "seed_value": 2542,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 25,
+      "seed_value": 2542,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 26,
+      "seed_value": 2642,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 26,
+      "seed_value": 2642,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 26,
+      "seed_value": 2642,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 26,
+      "seed_value": 2642,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 26,
+      "seed_value": 2642,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 26,
+      "seed_value": 2642,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 26,
+      "seed_value": 2642,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 27,
+      "seed_value": 2742,
+      "p": 7,
+      "N_p": 0
+    },
+    {
+      "seed": 27,
+      "seed_value": 2742,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 27,
+      "seed_value": 2742,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 27,
+      "seed_value": 2742,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 27,
+      "seed_value": 2742,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 27,
+      "seed_value": 2742,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 27,
+      "seed_value": 2742,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 28,
+      "seed_value": 2842,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 28,
+      "seed_value": 2842,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 28,
+      "seed_value": 2842,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 28,
+      "seed_value": 2842,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 28,
+      "seed_value": 2842,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 28,
+      "seed_value": 2842,
+      "p": 47,
+      "N_p": 0
+    },
+    {
+      "seed": 29,
+      "seed_value": 2942,
+      "p": 11,
+      "N_p": 0
+    },
+    {
+      "seed": 29,
+      "seed_value": 2942,
+      "p": 19,
+      "N_p": 0
+    },
+    {
+      "seed": 29,
+      "seed_value": 2942,
+      "p": 23,
+      "N_p": 0
+    },
+    {
+      "seed": 29,
+      "seed_value": 2942,
+      "p": 31,
+      "N_p": 0
+    },
+    {
+      "seed": 29,
+      "seed_value": 2942,
+      "p": 43,
+      "N_p": 0
+    },
+    {
+      "seed": 29,
+      "seed_value": 2942,
+      "p": 47,
+      "N_p": 0
+    }
+  ],
+  "split_tests": [
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 13,
+      "N_p": 0
+    },
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 17,
+      "N_p": 1
+    },
+    {
+      "seed": 0,
+      "seed_value": 42,
+      "p": 29,
+      "N_p": 1
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 13,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 17,
+      "N_p": 0
+    },
+    {
+      "seed": 1,
+      "seed_value": 142,
+      "p": 29,
+      "N_p": 2
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 5,
+      "N_p": 0
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 13,
+      "N_p": 2
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 17,
+      "N_p": 1
+    },
+    {
+      "seed": 2,
+      "seed_value": 242,
+      "p": 29,
+      "N_p": 1
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 13,
+      "N_p": 0
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 17,
+      "N_p": 2
+    },
+    {
+      "seed": 3,
+      "seed_value": 342,
+      "p": 29,
+      "N_p": 4
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 5,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 13,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 17,
+      "N_p": 0
+    },
+    {
+      "seed": 4,
+      "seed_value": 442,
+      "p": 29,
+      "N_p": 0
+    }
+  ],
+  "summary": {
+    "passed_inert": 183,
+    "total_inert": 183,
+    "failed_inert": 0,
+    "skipped": 30,
+    "skipped_ramification": 3,
+    "skipped_bad_denom": 11,
+    "skipped_decoupled": 16,
+    "skipped_ramification_inert": 3,
+    "skipped_bad_denom_inert": 11,
+    "skipped_decoupled_inert": 13,
+    "total_inert_pre_ramification": 186,
+    "split_nonzero": 8,
+    "total_split": 17,
+    "skipped_split": 3
+  },
+  "D1_meta": {
+    "description": "Dataset D1: 30 rational 4D kinematic points for n=7 CHY verification",
+    "generation_method": "Pythagorean null vector parametrization with momentum conservation"
+  }
+}

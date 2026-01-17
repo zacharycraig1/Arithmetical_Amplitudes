@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-01-16 20:15:53.604008",
+  "prime": 31,
+  "gauge": [
+    0,
+    1,
+    -1
+  ],
+  "total_tests": 30,
+  "passed": 24,
+  "failed": 3,
+  "failures": [
+    {
+      "seed_id": 2,
+      "seed_value": 242,
+      "p": 31,
+      "issues": [
+        {
+          "type": "singular_jacobian",
+          "solution": 0
+        }
+      ],
+      "N_p": 1,
+      "status": "FAIL"
+    },
+    {
+      "seed_id": 12,
+      "seed_value": 1242,
+      "p": 31,
+      "issues": [
+        {
+          "type": "singular_jacobian",
+          "solution": 0
+        }
+      ],
+      "N_p": 1,
+      "status": "FAIL"
+    },
+    {
+      "seed_id": 22,
+      "seed_value": 2242,
+      "p": 31,
+      "issues": [
+        {
+          "type": "singular_jacobian",
+          "solution": 0
+        }
+      ],
+      "N_p": 1,
+      "status": "FAIL"
+    }
+  ]
+}

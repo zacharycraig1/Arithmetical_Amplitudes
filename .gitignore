@@ -1,0 +1,15 @@
+*.sage.py
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.sage.py
+__pycache__/
+logs/*.stdout.txt

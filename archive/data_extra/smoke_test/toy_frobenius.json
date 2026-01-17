@@ -1,0 +1,94 @@
+{
+  "polynomial": "x^4 - 5*x^2 + 6",
+  "degree": 4,
+  "records": [
+    {
+      "p": 5,
+      "p_mod4": 1,
+      "factor_degrees": [
+        2,
+        2
+      ],
+      "factorization": "(x^2 + 2) * (x^2 + 3)"
+    },
+    {
+      "p": 7,
+      "p_mod4": 3,
+      "factor_degrees": [
+        2,
+        1,
+        1
+      ],
+      "factorization": "(x + 3) * (x + 4) * (x^2 + 4)"
+    },
+    {
+      "p": 11,
+      "p_mod4": 3,
+      "factor_degrees": [
+        2,
+        1,
+        1
+      ],
+      "factorization": "(x + 5) * (x + 6) * (x^2 + 9)"
+    },
+    {
+      "p": 13,
+      "p_mod4": 1,
+      "factor_degrees": [
+        2,
+        1,
+        1
+      ],
+      "factorization": "(x + 4) * (x + 9) * (x^2 + 11)"
+    },
+    {
+      "p": 17,
+      "p_mod4": 1,
+      "factor_degrees": [
+        2,
+        1,
+        1
+      ],
+      "factorization": "(x + 6) * (x + 11) * (x^2 + 14)"
+    },
+    {
+      "p": 19,
+      "p_mod4": 3,
+      "factor_degrees": [
+        2,
+        2
+      ],
+      "factorization": "(x^2 + 16) * (x^2 + 17)"
+    },
+    {
+      "p": 23,
+      "p_mod4": 3,
+      "factor_degrees": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "factorization": "(x + 5) * (x + 7) * (x + 16) * (x + 18)"
+    },
+    {
+      "p": 29,
+      "p_mod4": 1,
+      "factor_degrees": [
+        2,
+        2
+      ],
+      "factorization": "(x^2 + 26) * (x^2 + 27)"
+    },
+    {
+      "p": 31,
+      "p_mod4": 3,
+      "factor_degrees": [
+        2,
+        1,
+        1
+      ],
+      "factorization": "(x + 8) * (x + 23) * (x^2 + 28)"
+    }
+  ]
+}
